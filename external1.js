@@ -4,7 +4,7 @@ let currentSong = new Audio();
 let songs = [
     {
         name: "Aane Do Babhan Ko Shashan mein",
-        url: "https://drive.google.com/uc?export=download&id=1JyuNtcrncEGwlsWQJh3i1a8jNxMsyTMR"
+        url: "https://drive.google.com/uc?export=download&id=1lbNF96Pqcw00-mhrnLL3lMIVSD17vVEj"
 
 
     },
