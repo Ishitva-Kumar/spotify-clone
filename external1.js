@@ -4,7 +4,7 @@ let currentSong = new Audio();
 let songs = [
     {
         name: "Aane Do Babhan Ko Shashan mein",
-        url: "http://127.0.0.1:5500/songs/%23Video%20%23%E0%A4%85%E0%A4%AD%E0%A4%B7%E0%A4%95%20%E0%A4%B8%E0%A4%B9%20%20%E0%A4%AC%E0%A4%AD%E0%A4%A8%20%E0%A4%95%20%E0%A4%86%E0%A4%A8%20%E0%A4%A6%20%E0%A4%B6%E0%A4%B8%E0%A4%A8%20%E0%A4%AE%20%20%23Abhishek%20Singh%2C%20%23Appi%20Parthi%20%20Bhojpuri%20Song.mp3"
+        url: "https://github.com/Ishitva-Kumar/spotify-clone/blob/main/songs/%23Video%20%23%E0%A4%85%E0%A4%AD%E0%A4%B7%E0%A4%95%20%E0%A4%B8%E0%A4%B9%20%20%E0%A4%AC%E0%A4%AD%E0%A4%A8%20%E0%A4%95%20%E0%A4%86%E0%A4%A8%20%E0%A4%A6%20%E0%A4%B6%E0%A4%B8%E0%A4%A8%20%E0%A4%AE%20%20%23Abhishek%20Singh%2C%20%23Appi%20Parthi%20%20Bhojpuri%20Song.mp3"
     },
     {
         name: "Paracetamol",
