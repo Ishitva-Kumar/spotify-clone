@@ -4,7 +4,7 @@ let currentSong = new Audio();
 let songs = [
     {
         name: "Aane Do Babhan Ko Shashan mein",
-        url: "https://drive.google.com/uc?export=download&id=1lbNF96Pqcw00-mhrnLL3lMIVSD17vVEj"
+        url: "https://firebasestorage.googleapis.com/v0/b/spotify-clone-e0e61.appspot.com/o/songs_%23Video%20%23%E0%A4%85%E0%A4%AD%E0%A4%B7%E0%A4%95%20%E0%A4%B8%E0%A4%B9%20%20%E0%A4%AC%E0%A4%AD%E0%A4%A8%20%E0%A4%95%20%E0%A4%86%E0%A4%A8%20%E0%A4%A6%20%E0%A4%B6%E0%A4%B8%E0%A4%A8%20%E0%A4%AE%20%20%23Abhishek%20Singh%20(1).mp3?alt=media&token=91ab56c0-0a32-470c-98bd-5fd4be66f154"
 
 
     },
