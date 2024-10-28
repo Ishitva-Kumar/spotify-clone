@@ -17,7 +17,7 @@ let songs = [
     },
     {
         name: "Baagh Ka Kareja",
-        url: "http://127.0.0.1:5500/songs/Baagh%20Ka%20Kareja%20(Song)%20%20Manoj%20Bajpayee%20%20Manoj%20Tiwari%2C%20Dr%20Sagar%2C%20Aditya%20Dev%20%20Bhaiyya%20Ji%20%2024th%20May.mp3" // External URL for Song 2
+        url: "https://wynk.in/music/song/baagh-ka-kareja/bl_3617387011429_INH562400013?q=baagh" // External URL for Song 2
     },
     {
         name: "Aarabh Hai Prachand",
