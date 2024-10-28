@@ -9,7 +9,7 @@ let songs = [
     },
     {
         name: "Paracetamol",
-        url: "http://127.0.0.1:5500/songs/audio.mp3" // External URL for Song 2
+        url: "https://www.jiosaavn.com/song/paracetamol/RRo4VkBTVGc" // External URL for Song 2
     },
     {
         name: "Rakt Charitra",
