@@ -21,7 +21,7 @@ let songs = [
     },
     {
         name: "Aarabh Hai Prachand",
-        url: "http://127.0.0.1:5500/songs/ARAMBH%20HAI%20PRACHAND%20LYRICS%20%20%20%23motivation101%20%23motivation.mp3" // External URL for Song 2
+        url: "./songs/ARAMBH HAI PRACHAND LYRICS   #motivation101 #motivation.mp3" // External URL for Song 2
     }
    
 ];
