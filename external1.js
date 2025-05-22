@@ -13,7 +13,7 @@ let songs = [
     },
     {
         name: "Rakt Charitra",
-        url: "http://127.0.0.1:5500/songs/videoplaybackrakt.m4a" // External URL for Song 2
+        url: "./songs/videoplaybackrakt.m4a" // External URL for Song 2
     },
     {
         name: "Baagh Ka Kareja",
